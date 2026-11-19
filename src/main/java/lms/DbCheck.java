@@ -1,4 +1,4 @@
-package lms; 
+package lms;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
